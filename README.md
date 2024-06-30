@@ -33,3 +33,19 @@ COVID-19 Data:
 4. Orchestration:
    - Apache Airflow is used to schedule and monitor the ETL pipeline.
 
+## Tools and Technologies
+
+- Python: For data extraction and scripting.
+- Apache Spark: For data transformation.
+- AWS S3: For data storage.
+- Amazon Redshift: For data warehousing.
+- Apache Airflow: For pipeline orchestration.
+
+## Setup Instructions
+
+### Prerequisites
+
+- AWS account with access to S3 and Redshift.
+- Python installed.
+- Apache Spark installed.
+- Apache Airflow installed.
